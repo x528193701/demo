@@ -1,0 +1,37 @@
+.lb_channel_title {
+    background: url("http://127.0.0.1:3000/index/ikanshu_icons_1.png") no-repeat;
+    display: block;
+    padding-left: 15px;
+    height: 42px;
+    font-size: 14px;
+    line-height: 3em;
+    color: #333;
+    background-position: -122px -642px;
+    background-size: 140px auto;
+  }
+  ul,h3,p{padding: 0;margin: 0;}
+  ul{list-style: none;}
+  a {
+    text-decoration: none;
+    color: #4a4a4a;
+    background: transparent;
+  }
+  a:hover{
+    text-decoration: none!important;
+    color: #4a4a4a;
+  }
+  .authorname {
+    display: block;
+    padding-left: 22px;
+    text-align: left;
+    font-size: 12px;
+    line-height: 2em;
+    color: #999;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    background-image: url("http://127.0.0.1:3000/index/icon_author_1.png");
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-size: auto 16px;
+  }
